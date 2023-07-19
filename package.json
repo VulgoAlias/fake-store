@@ -1,7 +1,6 @@
 {
   "name": "fake-store",
   "version": "0.1.0",
-  "main": "/build/index.html",
   "private": true,
   "homepage": "https://vulgoalias.github.io/fake-store/",
   "dependencies": {
@@ -48,7 +47,5 @@
       "last 1 safari version"
     ]
   },
-  "devDependencies": {
-    "gh-pages": "^5.0.0"
-  }
+  "devDependencies": {}
 }
